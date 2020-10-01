@@ -1,2 +1,2 @@
 
-https://nikhil0770.github.io/web/
+web addons for easy access and design
